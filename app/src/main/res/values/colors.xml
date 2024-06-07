@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#C4CD65</color>
+    <color name="edittext_bg">#6A6C3F</color>
+    <color name="textColor">#4C4C4A</color>
+    <color name="greenColor">#59A519</color>
+    <color name="redColor">#E13416</color>
+
+
+
+    <color name="category1">#1DE116</color>
+    <color name="category2">#E32B0B</color>
+    <color name="category3">#FFEB3B</color>
+    <color name="category4">#5A3ED6</color>
+    <color name="category5">#2196F3</color>
+    <color name="category6">#ECA518</color>
+
+
+
+    <color name="bank_color">#E4C80B</color>
+    <color name="cash_color">#D1E60F</color>
+    <color name="card_color">#E13416</color>
+    <color name="default_color">#ECA518</color>
+
+
+</resources>
